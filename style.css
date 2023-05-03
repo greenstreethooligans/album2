@@ -1,0 +1,38 @@
+.image1 {
+    width: 300px;
+    border: 1px solid #FFF;
+    border-radius: 10px; 
+}
+
+.image2 {
+    height: 540px;
+    width: auto;
+    border: 1px solid #FFF;
+    border-radius: 10px; 
+}
+.image3 {
+    height: 540px;
+    width: auto;
+    border: 1px solid #FFF;
+    border-radius: 10px; 
+}
+.video1 {
+    width: 700px;
+    border-radius: 10px; 
+}
+.video2 {
+    width: 700px;
+    border-radius: 10px; 
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: baseline;
+    align-content: stretch;
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 3px dashed #6D6D6D;
+    font-family: 'Courier New';
+  }
